@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ama2022
 - 👀 I’m interested in ...Product and Program Management; advancing in code 
-- 🌱 I’m currently learning ...JSON, sAFE AGILE
+- 🌱 I’m currently learning ...JSON, sAFE AGILE, Salesforce Trailblazer
 - 💞️ I’m looking to collaborate on ...Code Challenges, Nonprofit opportunities  
 - 📫 How to reach me ... aemanuel80@gmail.com
 
