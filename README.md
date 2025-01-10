@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Ama2022
-- 👀 I’m interested in ...Product and Program Management; advancing in code 
-- 🌱 I’m currently learning ...JSON, sAFE AGILE, Salesforce Trailblazer
-- 💞️ I’m looking to collaborate on ...Code Challenges, Nonprofit opportunities  
-- 📫 How to reach me ... aemanuel80@gmail.com
+# 👋 Hi, I'm Ama2022!
 
-<!---
-Ama2022/Ama2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Welcome to my GitHub profile! I am passionate in community outreach for technology with a keen interest in Product Management, software development, open-source contributions, and learning new technologies.
+
+## 🚀 About Me
+
+- 🌱 I am a Product Manager with Federal Experience working on building a non-profit product. I am also learning AI full-stack development.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about volunteer Product Manager work and serving as a Board Member in Tech Startups.
+- 📫 How to reach me: aemanuel80@gmail.com
+- ⚡ Fun fact: I love solving puzzles, reading books and learning from others.
+
+## 🛠️ Software Languages and Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Product and Software Tools:** Salesforce, JIRA, Asana, Linux
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ama-emanuel)
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate.
 --->
