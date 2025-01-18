@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am passionate in community outreach for technolo
 ## 🛠️ Software Languages and Tools
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Product and Software Tools:** Salesforce, JIRA, Asana, Linux
+- **Product and Software Tools:** Salesforce, JIRA, Asana, Linux,Tableau
 
 ## 📫 Connect with Me
 
