@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ama2022!
+# 👋 Hi, I'm Ama!
 
 Welcome to my GitHub profile! I am passionate in community outreach for technology with a keen interest in Product Management, software development, open-source contributions, and learning new technologies.
 
