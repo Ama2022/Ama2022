@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am passionate in community outreach for technolo
 
 ## 🚀 About Me
 
-- 🌱 I am a Product Manager with Federal Experience working on building a non-profit product. I am also learning AI full-stack development.
+- 🌱 I am a Product Manager building a non-profit product. I am also learning AI full-stack development.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about volunteer Product Manager work and serving as a Board Member in Tech Startups.
 - 📫 How to reach me: aemanuel80@gmail.com
