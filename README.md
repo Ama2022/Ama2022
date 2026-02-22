@@ -1,14 +1,44 @@
-# 👋 Hi, I'm Ama!
+# Hi there, I'm Ama Emanuel 👋
 
-Welcome to my GitHub profile! I am passionate in community outreach for technology with a keen interest in Product Management, software development, open-source contributions, and learning new technologies.
+**Federal Government Affairs & IT Specialist** *Navigating the intersection of healthcare policy, federal regulations, and technical innovation.*
 
-## 🚀 About Me
+---
 
-- 🌱 I am a Product Manager building a non-profit product. I am also learning AI full-stack development.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about volunteer Product Manager work and serving as a Board Member in Tech Startups.
-- 📫 How to reach me: aemanuel80@gmail.com
-- ⚡ Fun fact: I love solving puzzles, reading books and learning from others.
+### 🏛️ Professional Overview
+I am a seasoned professional with over **15 years of experience** in government relations, public policy, and healthcare advocacy. Currently, I serve as an **IT Specialist at CMMI** (since April 2024), where I bridge the gap between complex federal mandates and technical execution.
+
+---
+
+### 💻 Technical Expertise
+* **Quality Management:** Leading **Salesforce Quality Management Testing** to ensure federal security and functional compliance.
+* **Systems Administration:** Managing **SharePoint architecture**, user access, and collaborative workflows for agency-wide efficiency.
+* **Compliance & Records:** Expert in **Federal Records Management** and **NARA guidelines** to protect and organize digital assets.
+* **Emergency Preparedness:** Lead annual training for CMMI managers on **Continuity of Operations (COOP)** and emergency protocols.
+
+---
+
+### 📈 Career Highlights
+* **Cost Savings:** Streamlined federal operations to achieve over **$1.4M in savings** through strategic technical implementations.
+* **Policy Influence:** Successfully influenced federal regulations and engaged key stakeholders during tenures at **CMS** and **Kaiser Permanente**.
+* **Advocacy:** Dedicated to aligning policy initiatives with business objectives to drive meaningful change in the healthcare landscape.
+
+---
+
+### 🛠️ Tech Stack & Skills
+* **Platforms:** Salesforce, SharePoint, GitHub
+* **Specialties:** Quality Assurance (QA) Testing, Records Management, Legislative Strategy, Stakeholder Engagement
+* **Governance:** Federal Regulatory Adherence, COOP Training, Public Policy Analysis
+
+---
+
+### 📫 Connect with Me
+* **Portfolio:** [aemanuel800.wixsite.com/product](https://aemanuel800.wixsite.com/product)
+* **Email:** [ama.emanuel@cms.hhs.gov](mailto:ama.emanuel@cms.hhs.gov)
+* **GitHub:** [github.com/Ama2022](https://github.com/Ama2022)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ama2022&color=blue)
 
 ## 🛠️ Software Languages and Tools
 
